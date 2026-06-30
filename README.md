@@ -12,7 +12,7 @@ a notes file built from the ideas I actually worked through.
 
 | Week | Topic | Notes |
 |------|-------|-------|
-| 1 | ML Project Lifecycle & Deployment | _(in progress)_ |
+| 1 | ML Project Lifecycle & Deployment | [notes](weeks/week-01-lifecycle-and-deployment.md) |
 
 ## How I'm working through this
 
