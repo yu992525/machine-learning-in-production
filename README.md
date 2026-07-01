@@ -13,6 +13,7 @@ a notes file built from the ideas I actually worked through.
 | Week | Topic | Notes |
 |------|-------|-------|
 | 1 | ML Project Lifecycle & Deployment | [notes](weeks/week-01-lifecycle-and-deployment.md) |
+| 2 | Modeling (Select & Train a Model) | [notes](weeks/week-02-modeling.md) |
 
 ## How I'm working through this
 
