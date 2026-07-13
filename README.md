@@ -14,6 +14,7 @@ a notes file built from the ideas I actually worked through.
 |------|-------|-------|
 | 1 | ML Project Lifecycle & Deployment | [notes](weeks/week-01-lifecycle-and-deployment.md) |
 | 2 | Modeling (Select & Train a Model) | [notes](weeks/week-02-modeling.md) |
+| 3 | Data: Define Data & Establish a Baseline | [notes](weeks/week-03-data-and-baseline.md) |
 
 ## How I'm working through this
 
